@@ -89,6 +89,9 @@ The following code snippets and images serve as an illustration to demonstrate t
 - The `FileSeperator` can enable you to split directories of images into train, test and validation datasets which can be fed into tf.data pipelines accelarting the machine learning process.
 - Many datasets often provide a split of the data, however it may not be in the proportion one may want it to be in, in this case, the `FileSeperator` allows a user to set their own proportions for the train-test-validation split.
 
+## Disclaimer
+Wherever mentioned, the images may not be available, due to this the user may view files fs_1, fs_2, and fs_3. They are in the order they are mentioned.
+
 
 
 
